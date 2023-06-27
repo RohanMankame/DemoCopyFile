@@ -11,7 +11,7 @@ import java.time.format.DateTimeFormatter;
 
 public class Transfer {
 
-    int id = 3;
+    int id = 0;
 
     public void getFiles(String sorcDirectory, String destDirectory)
     {
